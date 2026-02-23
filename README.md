@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/lasyachalla/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="25" style="border:0;"/>
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/LasyaChalla">
+  <a href="https://github.com/Lasya-Challa">
     <img src="https://skillicons.dev/icons?i=github" width="25" style="border:0;"/>
   </a>
 </p>
