@@ -16,9 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRkenYya29udTQzMDljbDMzb25lMnhiNzBxN3o3NmsydXYxbDJsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" width="350"/>
-</p>
 
 ---
 
