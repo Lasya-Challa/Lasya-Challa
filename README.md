@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Lasya Challa 👋</h1>
 <p align="center">
-  Data Engineer • Data Scientist • Machine Learning Engineer
+  Data Scientist • AI/ML Engineer
 </p>
 
 
@@ -22,12 +22,6 @@
 ### About Me
 
 I’m **Lasya Challa**, a Data Scientist with a **Master’s in Data Science**, focused on building systems that transform raw data into intelligent, scalable, and deployable solutions. I am interested in how learning systems can automate reasoning, optimize decisions, and operate reliably at scale.
-
-I aim to specialize in:
-
-- 🧠 **Machine learning & intelligent automation**
-- 🛠 **Data engineering & production-ready pipelines**
-- 📈 **Forecasting, NLP & applied ML for decision-making**
 
 
 ---
